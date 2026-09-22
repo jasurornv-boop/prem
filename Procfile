@@ -1,0 +1,1 @@
+worker: python baklashga.py
